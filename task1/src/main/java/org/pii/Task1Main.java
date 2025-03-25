@@ -1,6 +1,6 @@
 package org.pii;
 
-public class Main {
+public class Task1Main {
 
     public static void main(String[] args) {
 

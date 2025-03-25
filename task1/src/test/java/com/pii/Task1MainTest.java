@@ -3,9 +3,9 @@ package com.pii;
 import org.junit.jupiter.api.Test;
 
 import static org.assertj.core.api.AssertionsForClassTypes.assertThat;
-import static org.pii.Main.findPath;
+import static org.pii.Task1Main.findPath;
 
-public class MainTest {
+public class Task1MainTest {
 
     @Test
     void testShouldFindPath() {
